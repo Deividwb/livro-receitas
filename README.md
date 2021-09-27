@@ -3,5 +3,6 @@
 Olá!Bem vindo ao meu livro de resitas:wave:
 
 * Strogonoff de frango
-* ​
+* Pavê
+
 
